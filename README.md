@@ -44,3 +44,7 @@ https://docs.confluent.io/platform/current/tutorials/examples/clickstream/docs/i
 IMPORTANT: If u are killing process on port, process might get recreated right away.
 Thats  why its important to know that 
 services control creating and maintaining processes on some ports
+
+### 3. If your Virtualization is different than the one showed in this README.
+> Please follow this dependencies to bump your connectors or docker images to work with M1:
+https://docs.confluent.io/platform/current/installation/versions-interoperability.html#operating-systems
