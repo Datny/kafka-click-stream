@@ -33,5 +33,5 @@ They are in "About" section of your DockerDesktop software
 # After running `docker-compose up` please follow: 
 https://docs.confluent.io/platform/current/tutorials/examples/clickstream/docs/index.html
 # ![img.png](img.png)
-## Run docker-compose ps
-## and continue with rest of the tutorial
+### Run `docker-compose ps`
+### and continue with rest of the tutorial
