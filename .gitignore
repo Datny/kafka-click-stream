@@ -4,7 +4,6 @@
 **/target/
 img_data
 **/python_notify/
-**/confluent-hub-components/
 .Python
 .vscode
 **/node_modules/
