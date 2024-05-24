@@ -24,6 +24,7 @@
 
 # Run 
 > cd clickstream
+> 
 > docker-compose up
 
 # After running `docker-compose up` please follow: 
