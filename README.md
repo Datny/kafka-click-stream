@@ -7,7 +7,7 @@ It only contains "clickstream" and "utils" directories from original repository
 
 
 
-###Versions :
+### Versions :
 > Branch: 7.5.0
 
 
@@ -19,7 +19,7 @@ It only contains "clickstream" and "utils" directories from original repository
 
 ### If you look for your DockerDestkop versions:
 They are in "About" section of your DockerDesktop software
-![img.png](Screens/img.png)
+![img.png](readme-screens/img.png)
 
 # If u are M[1/2/3] (MacOsX) + DockerDesktop user,
 # use this options for Rosetta virtualization
@@ -28,4 +28,10 @@ They are in "About" section of your DockerDesktop software
 
 # Run 
 > cd clickstream
-> 
+> docker-compose up
+
+# After running `docker-compose up` please follow: 
+https://docs.confluent.io/platform/current/tutorials/examples/clickstream/docs/index.html
+# ![img.png](img.png)
+## Run docker-compose ps
+## and continue with rest of the tutorial
